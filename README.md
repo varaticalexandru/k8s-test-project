@@ -7,7 +7,7 @@
 Plan:
 
 1) create node.js express web app
-    configure webserver: responds with hostname of server, when connecting via root url (distinguish which pod answers specific request)
+   configure webserver: responds with hostname of server, when connecting via root url (distinguish which pod answers specific request)
 
 2) dockerize the app
     using Dockerfile, build command
